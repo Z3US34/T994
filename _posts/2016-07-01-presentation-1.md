@@ -12,7 +12,7 @@ slides:
      |- **Servomotores**: Controlan la posición angular con alta precisión.
      |- **Actuadores piezoeléctricos**: Usan la deformación de materiales piezoeléctricos para producir movimiento.
   
- - title: Funcionamiento de Actuadores Eléctricos
+ - title: Funcionamiento
    slide-data: |
      Los actuadores eléctricos funcionan mediante la interacción entre campos electromagnéticos y componentes mecánicos. Ejemplos:
      - **Motores eléctricos**: Rotación de un rotor en un campo magnético.

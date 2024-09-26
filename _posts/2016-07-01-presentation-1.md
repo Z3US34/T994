@@ -8,9 +8,9 @@ slides:
  - title: Actuadores Eléctricos
    slide-data: |
      Los actuadores eléctricos son dispositivos que convierten energía eléctrica en energía mecánica. Existen varios tipos, entre los que destacan:
-     |- **Motores eléctricos**: Transforman la energía eléctrica en movimiento rotativo.
-     |- **Servomotores**: Controlan la posición angular con alta precisión.
-     |- **Actuadores piezoeléctricos**: Usan la deformación de materiales piezoeléctricos para producir movimiento.
+     - **Motores eléctricos**: Transforman la energía eléctrica en movimiento rotativo.
+     - **Servomotores**: Controlan la posición angular con alta precisión.
+     - **Actuadores piezoeléctricos**: Usan la deformación de materiales piezoeléctricos para producir movimiento.
   
  - title: Funcionamiento
    slide-data: |

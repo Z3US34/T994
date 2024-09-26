@@ -1,36 +1,63 @@
 ---
-title: Presentation 2
+title: Mecanicos
 layout: post
-permalink: /presentation-2/
+permalink: /mecanicos/
 
  
 slides:
- - title: Slide 1
-   slide-data: This is first slide
+ - title: Actuadores mecanicos
+   slide-data: |
+     Utilizan componentes mecánicos para generar movimiento. Tipos comunes:
+     - **Levas**: Movimiento rotativo a lineal.
+     - **Engranajes**: Transmiten movimiento y fuerza.
+     - **Cadenas y poleas**: Transmiten fuerza a distancias mayores.
    background: "#e74c3c"
      
- - title: Slide 2
-   slide-data: This is second slide
+ - title: Funcionamiento de Actuadores Mecanicos
+   slide-data: |
+    Conversión de un tipo de movimiento en otro. Ejemplos
+     - **Levas**: Empujan un puntero al girar.
+     - **Engranajes**: Rotación de un engranaje mueve a otro.
    background: '#f1c40f'
    
- - title: Slide 3
-   slide-data: This is third slide
+ - title: Características de Actuadores Mecánicos
+   slide-data: |
+    Incluyen:
+    - **Durabilidad**: Resistencia al desgaste.
+    - **Capacidad de carga**: Fuerza soportada.
+    - **Reversibilidad**: Posibilidad de revertir movimiento.
+    - **Mantenimiento**: Necesidades de lubricación.
    background: '#9b59b6'
    
- - title: Slide 4
-   slide-data: This is fourth slide
+ - title: Actuadores Hidráulicos
+   slide-data: |
+    Utilizan fluidos para generar movimiento. Tipos comunes:
+     - **Cilindros hidráulicos**: Movimiento lineal.
+     - **Motores hidráulicos**: Movimiento rotativo.
+     - **Bombas hidráulicas**: Generan flujo de fluido.
    background: '#3498db'
    
- - title: Slide 5
-   slide-data: This is fifth slide
+ - title: Funcionamiento de Actuadores Hidráulicos
+   slide-data: |
+     Basado en el principio de Pascal, donde la presión se transmite uniformemente. Ejemplos:
+     - **Cilindros hidráulicos**: Aumento de presión desplaza un vástago.
+     - **Motores hidráulicos**: Utilizan presión para girar un rotor.
+
    background: '#2ecc71'
    
- - title: Slide 6
-   slide-data: This is sixth slide
+ - title: Características de Actuadores Hidráulicos
+   slide-data: |
+    Incluyen:
+    - **Fuerza**: Generación de altas fuerzas.
+    - **Control**: Precisión en el control de movimientos.
+    - **Flexibilidad**: Operación en entornos difíciles.
    background: '#1abc9c'
 
- - title: Slide 7
-   slide-data: This is seventh slide
+ - title: Modo de Comunicación de Actuadores Hidráulicos
+   slide-data: |
+    Se comunican a través de:
+    - **Válvulas de control**: Regulación de flujo y presión.
+    - **Sensores de presión**: Monitoreo del sistema hidráulico.
    background: '#e67e22'
 ---
 

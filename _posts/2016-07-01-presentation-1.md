@@ -19,7 +19,7 @@ slides:
      - **Solenoides**: Creación de un campo magnético que mueve un núcleo.
      - **Servomotores**: Control de retroalimentación para ajustar la posición.
 
- - title: Características de Actuadores Eléctricos
+ - title: Características
    slide-data: |
      Las características incluyen:
      - **Velocidad**: Capacidad de respuesta y rapidez en el movimiento.
@@ -28,7 +28,7 @@ slides:
      - **Consumo energético**: Eficiencia energética.
      - **Tamaño**: Dimensiones y peso.
 
- - title: Modo de Comunicación de Actuadores Eléctricos
+ - title: Modo de Comunicación
    slide-data: |
      Se comunican mediante:
      - **Protocolos de comunicación**: Modbus, CAN bus, Ethernet/IP.

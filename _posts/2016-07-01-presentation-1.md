@@ -1,26 +1,46 @@
 ---
-title: Actuadores en sistemas Programables
+title: Actuadores en Sistemas Programables
 layout: post
-permalink: /Actuadores/
-background: '#0a5'
+permalink: /actuadores/
+background: '#f0f0f0'
+
 slides:
- - title: Tipos
-   slide-data:
-   - **Motores Eléctricos**: Convierte energía eléctrica en energía mecánica.
-- **Servomotores**: Proporcionan control preciso de posición y velocidad.
-- **Actuadores Lineales**: Generan movimiento lineal en respuesta a una señal eléctrica.
-
- - title: Slide 2
-   slide-data: This is second slide
-
- - title: Slide 3
-   slide-data: This is third slide
+ - title: Actuadores Eléctricos
+   slide-data: |
+     Los actuadores eléctricos son dispositivos que convierten energía eléctrica en energía mecánica. Existen varios tipos, entre los que destacan:
+     - **Motores eléctricos**: Transforman la energía eléctrica en movimiento rotativo.
+     - **Servomotores**: Controlan la posición angular con alta precisión.
+     - **Actuadores piezoeléctricos**: Usan la deformación de materiales piezoeléctricos para producir movimiento.
   
+ - title: Funcionamiento de Actuadores Eléctricos
+   slide-data: |
+     Los actuadores eléctricos funcionan mediante la interacción entre campos electromagnéticos y componentes mecánicos. Ejemplos:
+     - **Motores eléctricos**: Rotación de un rotor en un campo magnético.
+     - **Solenoides**: Creación de un campo magnético que mueve un núcleo.
+     - **Servomotores**: Control de retroalimentación para ajustar la posición.
+
+ - title: Características de Actuadores Eléctricos
+   slide-data: |
+     Las características incluyen:
+     - **Velocidad**: Capacidad de respuesta y rapidez en el movimiento.
+     - **Precisión**: Exactitud en la posición o el movimiento.
+     - **Torque**: Fuerza ejercida.
+     - **Consumo energético**: Eficiencia energética.
+     - **Tamaño**: Dimensiones y peso.
+
+ - title: Modo de Comunicación de Actuadores Eléctricos
+   slide-data: |
+     Se comunican mediante:
+     - **Protocolos de comunicación**: Modbus, CAN bus, Ethernet/IP.
+     - **Señales de control**: Voltajes o pulsos de ancho variable (PWM).
+
+
 ---
 
 {% for slide in page.slides %}
-                    
-<section data-background="{% if slide.background %}{{slide.background}}{% else %}{{page.background}}{% endif %}"><h1>{{slide.title}}</h1>{{ slide.slide-data }}</section>
-                    
+<section data-background="{% if slide.background %}{{slide.background}}{% else %}{{page.background}}{% endif %}">
+  <h1>{{slide.title}}</h1>
+  {{ slide.slide-data }}
+</section>
 {% endfor %}
     

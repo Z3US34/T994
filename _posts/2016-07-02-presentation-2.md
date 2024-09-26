@@ -13,14 +13,14 @@ slides:
      - **Cadenas y poleas**: Transmiten fuerza a distancias mayores.
    background: "#e74c3c"
      
- - title: Funcionamiento de Actuadores Mecanicos
+ - title: Funcionamiento
    slide-data: |
     Conversión de un tipo de movimiento en otro. Ejemplos
      - **Levas**: Empujan un puntero al girar.
      - **Engranajes**: Rotación de un engranaje mueve a otro.
    background: '#f1c40f'
    
- - title: Características de Actuadores Mecánicos
+ - title: Características
    slide-data: |
     Incluyen:
     - **Durabilidad**: Resistencia al desgaste.
@@ -37,7 +37,7 @@ slides:
      - **Bombas hidráulicas**: Generan flujo de fluido.
    background: '#3498db'
    
- - title: Funcionamiento de Actuadores Hidráulicos
+ - title: Funcionamiento
    slide-data: |
      Basado en el principio de Pascal, donde la presión se transmite uniformemente. Ejemplos:
      - **Cilindros hidráulicos**: Aumento de presión desplaza un vástago.
@@ -45,7 +45,7 @@ slides:
 
    background: '#2ecc71'
    
- - title: Características de Actuadores Hidráulicos
+ - title: Características
    slide-data: |
     Incluyen:
     - **Fuerza**: Generación de altas fuerzas.
@@ -53,7 +53,7 @@ slides:
     - **Flexibilidad**: Operación en entornos difíciles.
    background: '#1abc9c'
 
- - title: Modo de Comunicación de Actuadores Hidráulicos
+ - title: Modo de Comunicación
    slide-data: |
     Se comunican a través de:
     - **Válvulas de control**: Regulación de flujo y presión.

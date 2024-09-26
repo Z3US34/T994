@@ -1,12 +1,15 @@
 ---
-title: Presentation 1
+title: Actuadores en sistemas Programables
 layout: post
-permalink: /presentation-1/
+permalink: /Actuadores/
 background: '#0a5'
 slides:
- - title: Slide 1
-   slide-data: This is first slide
-     
+ - title: Tipos
+   slide-data:
+   - **Motores Eléctricos**: Convierte energía eléctrica en energía mecánica.
+- **Servomotores**: Proporcionan control preciso de posición y velocidad.
+- **Actuadores Lineales**: Generan movimiento lineal en respuesta a una señal eléctrica.
+
  - title: Slide 2
    slide-data: This is second slide
 

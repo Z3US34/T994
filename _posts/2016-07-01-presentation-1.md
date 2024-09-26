@@ -2,7 +2,7 @@
 title: Actuadores en Sistemas Programables
 layout: post
 permalink: /actuadores/
-background: '#f0f0f0'
+background: '#3498db'
 
 slides:
  - title: Actuadores Eléctricos
